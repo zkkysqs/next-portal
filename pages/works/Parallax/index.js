@@ -363,7 +363,7 @@ export default function Parallax() {
 
       <div className={styles.scrollElement} id="scrollElement"/>
 
-      <a href="https://codepen.io/collection/DxkYzq" target="_blank" className={styles.btnWorks} rel="noreferrer">My Works</a>
+      <a href="https://codepen.io/keekuun/pens/popular" target="_blank" className={styles.btnWorks} rel="noreferrer">My Works</a>
       <button className={styles.fullscreenBtn} onClick={toggleFullScreen}>Go Fullscreen</button>
     </>
   )

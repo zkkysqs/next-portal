@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Parallax from "../works/Parallax";
+import Parallax from "./works/Parallax";
 
 import styles from '../styles/Home.module.css'
 

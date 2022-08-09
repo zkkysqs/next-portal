@@ -34,3 +34,6 @@ yarn-error.log*
 # lock
 yarn-lock.json
 package-lock.json
+
+# ide
+.idea
